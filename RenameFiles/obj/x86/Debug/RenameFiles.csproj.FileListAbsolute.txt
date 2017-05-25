@@ -1,0 +1,4 @@
+D:\projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+D:\projects\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+D:\projects\RenameFiles\RenameFiles\obj\x86\Debug\RenameFiles.exe
+D:\projects\RenameFiles\RenameFiles\obj\x86\Debug\RenameFiles.pdb
