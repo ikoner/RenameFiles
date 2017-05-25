@@ -1,6 +1,4 @@
 # RenameFiles
-batch rename files
-
 <strong>RenameFiles path prefix|postfix</strong><br><br>
 path is optional parameter.<br>
 Example:<br>
