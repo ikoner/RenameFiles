@@ -1,7 +1,7 @@
 # RenameFiles
 batch rename files
 
-RenameFiles path prefix|postfix<br>
+<strong>RenameFiles path prefix|postfix</strong><br>
 path is optional parameter.<br>
 Example:<br>
 d:/temp<br>
